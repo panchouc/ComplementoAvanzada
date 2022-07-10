@@ -84,13 +84,13 @@ que se ven en Programación Avanzada (IIC2233). Los repositorios de los libros s
     - Deadlocks: 
     - Thread-local variables: 
 
-- Processes, threads, or a single thread?: 
-    - threading versus concurrent.futures: 
-    - multiprocessing versus concurrent.futures: 
-- Hyper-threading versus physical CPU Cores: 
+- Processes, threads, or a single thread?: **Puesto lo más importante**
+    - threading versus concurrent.futures: **Puesto lo más importante**
+    - multiprocessing versus concurrent.futures: **Puesto lo más importante**
+- Hyper-threading versus physical CPU Cores: **Puesto lo más importante**
 - Remote processes: 
-    - Distributed processing using multiprocessing: 
-    - Distributed processing using Dask: 
+    - Distributed processing using multiprocessing: **No puse el ejemplo**
+    - Distributed processing using Dask: **Listo lo más importante**
 
 
 # Clean Code in Python - por terminar
