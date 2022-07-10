@@ -79,7 +79,7 @@ que se ven en Programación Avanzada (IIC2233). Los repositorios de los libros s
 - Batch processing using concurrent.futures: **No puse el ejemplo**
 - Batch processing using multiprocessing: **No puse el ejemplo**
 - Sharing data between threads and processes: 
-    - Shared memory between processes: 
+    - Shared memory between processes: **Me faltaría poner los ejemplos**
     - Thread safety: 
     - Deadlocks: 
     - Thread-local variables: 
